@@ -8,12 +8,18 @@
 
 ## 出图效果
 
-三张图都由本技能写的提示词直接文生图，除了裁掉底部的平台水印，没有做任何后期：
-
-| 深夜卧室 · 侧躺自拍 | 傍晚咖啡店 · 趴桌抬眼 | 凌晨电梯 · 对镜自拍 |
-|---|---|---|
-| ![深夜卧室](images/c-bedroom.jpg) | ![咖啡店](images/a-cafe.jpg) | ![电梯](images/b-elevator.jpg) |
-| "深夜卧室里的慵懒自拍" | "咖啡店窗边看书的女生" | "凌晨健身完，在电梯里对镜自拍的男人" |
+<table>
+<tr>
+<td><img src="images/c-bedroom.jpg" alt="深夜卧室"></td>
+<td><img src="images/a-cafe.jpg" alt="咖啡店"></td>
+<td><img src="images/b-elevator.jpg" alt="电梯"></td>
+</tr>
+<tr>
+<td>"深夜卧室里的慵懒自拍"</td>
+<td>"咖啡店窗边看书的女生"</td>
+<td>"凌晨健身完，在电梯里对镜自拍的男人"</td>
+</tr>
+</table>
 
 三条完整提示词都在 [references/examples.md](references/examples.md)。
 

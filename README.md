@@ -77,7 +77,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/likunru-oss/flash-mood-photo.git ~/.claude/skills/flash-mood-photo
+git clone https://github.com/DirectorKun/flash-mood-photo.git ~/.claude/skills/flash-mood-photo
 ```
 
 重新打开 Claude Code 后自动生效。
